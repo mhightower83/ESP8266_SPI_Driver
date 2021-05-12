@@ -1,3 +1,5 @@
+# [MetalPhreak's post on ESP8266 SPI](https://github.com/mhightower83/ESP8266_SPI_Driver/wiki/MetalPhreak's-post-on-ESP8266-SPI)
+
 ESP8266 SPI Driver
 ========
 
